@@ -1,0 +1,21 @@
+{
+    "name": "crewbe/wordpress-vite-vue-plugin",
+    "require": {
+        "kucrut/vite-for-wp": "^0.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Crewbe\\WordpressViteVuePlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "heartbeatLV",
+            "email": "lscorionjs@gmail.com"
+        },
+        {
+            "name": "giuseppecapasso",
+            "email": "capasso.gc@gmail.com"
+        }
+    ]
+}
